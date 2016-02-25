@@ -33,7 +33,7 @@ public abstract class BaseUI implements View.OnClickListener {
     public void onClick(View v) {
 
     }
-
+    //jflajkl
     public View getChild(){
 
         RelativeLayout.LayoutParams layoutParams = (RelativeLayout.LayoutParams)showInMiddle.getLayoutParams();
