@@ -8,6 +8,9 @@ import android.widget.RelativeLayout;
 
 import java.util.Map;
 
+/**
+ * git  hub
+ */
 public abstract class BaseUI implements View.OnClickListener {
     protected Context mContext;
     protected Bundle mBundle;
